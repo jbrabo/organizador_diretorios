@@ -4,4 +4,4 @@ Para utilizar as funções é necessário instalar a biblioteca OS caso não ten
 Função organiza_dir(caminho) deve ser chamada para organizar o diretório;
 A funão organiza_dir(caminho) aloca cada arquivo em uma pasta correspondente a sua extensão;
 Função desorganiza_dir(caminho) deve ser chamada para remover todos os arquivos de dentro das pastas. O intuito é retornar ao estado inicial;
-a variável "caminho" necessita que as "\" entre as pastas sejam trocadas por "\\" ou "/". ex:"C:\\User\\Portifólio\\diretoriosAnálise"
+a variável "caminho" necessita que as "\" entre as pastas sejam trocadas por "\\" ou "/". ex:"C:\\\User\\\Portifólio\\\diretoriosAnálise"
